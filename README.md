@@ -1,6 +1,7 @@
 # Bem vindo(a) ao meu repositorio
 
 meu nome é fabricio
+moro em Sao Paulo 😊
 
 ## Hobbies:
 
